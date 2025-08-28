@@ -38,7 +38,7 @@ This project is a web application for a pizza restaurant, built as part of **Jon
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AbdellahElAzyfy/fast-react-pizza.git](https://github.com/AbdellahElAzyfy/fast-react-pizza.git)
+    git clone https://github.com/AbdellahElAzyfy/fast-react-pizza.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
